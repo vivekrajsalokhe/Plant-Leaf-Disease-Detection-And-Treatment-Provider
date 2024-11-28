@@ -1,8 +1,11 @@
 ## Plant Disease Detection & Medicine Recommendation System
 
 <details>
-
-<summary> Project Documentation 📄 </summary>
+plant disease detection is a deep learning prject.
+  use CNN model for and activation function are used to give more accurecy.
+<summary>  Project Documentation 📄 </summary>
+reaserch paper
+poster CNN architecher
 
 ### Clone the repository
 
@@ -27,7 +30,7 @@ pip install -r requirements.txt
 ### Create Models directory and add from downloading to [this source](NA)
 
 ```bash
-mkdir models
+CNN models
 ```
 
 ### Run the Application
